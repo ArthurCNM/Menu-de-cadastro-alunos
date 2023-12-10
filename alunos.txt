@@ -1,0 +1,7 @@
+Nome:arthur
+
+CPF:14383688446
+Matrícula:339781149
+Data de nascimento: 19/3/2004
+Idade: 19
+Nota1:7,00Nota2:8,00
